@@ -1,0 +1,12 @@
+1042,Namukasa Grace,3,08:05
+1015,Okello Brian,1,08:12
+1088,Nakato Sarah,5,08:15
+1007,Mugisha Ivan,2,08:20
+1063,Atim Joy,3,08:24
+1031,Kato David,4,08:31
+1099,Nabirye Esther,1,08:40
+1022,Ssemwogerere Paul,3,08:45
+1054,Achieng Ruth,2,08:52
+1076,Tumusiime Peter,5,09:02
+1011,Nansubuga Lydia,4,09:10
+1093,Opio Daniel,3,09:18
